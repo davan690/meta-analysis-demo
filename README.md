@@ -1,4 +1,4 @@
-Meta-analysis using metafor
+_Meta_-analysis using metafor
 ===========================
 
 Background
